@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1751263788490,
+    "doctorId": 1751263369855,
+    "doctorName": "varun panchakarla",
+    "specialty": "cardiologist",
+    "patientId": 1751262695606,
+    "patientName": "varun panchakarla",
+    "date": "2025-06-30",
+    "time": "10:00",
+    "reason": "vurike\r\n",
+    "status": "Completed",
+    "precautions": "ithe navvuko ",
+    "prescription": " - Morning"
+  }
+]

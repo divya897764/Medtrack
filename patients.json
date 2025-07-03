@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1751045818555,
+    "name": "DIVYA NANDINI VAYALAPALLI",
+    "dob": "19",
+    "gender": "female",
+    "email": "divyanandini91@gmail.com",
+    "phone": "8367067074",
+    "address": "gowthami nagar",
+    "password": "$2b$10$MLcb9ZA6FwlDlrZOUvpUcuwSTYWtbwkw.KJyEDVpqp9VDrkLOjHH6",
+    "role": "patient"
+  },
+  {
+    "id": 1751262695606,
+    "name": "varun panchakarla",
+    "dob": "21",
+    "gender": "male",
+    "email": "varun@gmail.com",
+    "phone": "6304847533",
+    "address": "dkghsyugfs",
+    "password": "$2b$10$fNgbP8e0cpjsTFYnui9HKeS8hfV9EJ/MdSn0FBXEkzhX.nOYlKD6e",
+    "role": "patient"
+  }
+]
